@@ -1,0 +1,37 @@
+_repo: Mes-cahiers-rouges-au-temps-de-la-Commune_70144
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vuillaume, Maxime
+    aliases:
+    - Hélène, Maxime
+    - Helene, Maxime
+    birthdate: 1844
+    deathdate: 1925
+    gutenberg_agent_id: '55623'
+    url: http://www.gutenberg.org/2009/agents/55623
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Maxime_Vuillaume
+    - https://fr.wikipedia.org/wiki/Maxime_Vuillaume
+description: ''
+gutenberg_issued: '2023-02-26'
+identifiers:
+  gutenberg: '70144'
+language: fr
+pgterms:marc904: https://archive.org/details/mescahiersrouges00vuil/page/3/mode/1up
+pgterms:marc905: 20211027071319vuillaume
+pgterms:marc906: '1900'
+pgterms:marc907: FR
+production_note: Claudine Corbasson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aFrance :$bPaul Ollendorff, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- History -- Commune, 1871 -- Personal narratives'
+- !lcc 'DC'
+- GITenberg
+title: Mes cahiers rouges au temps de la Commune
+url: http://www.gutenberg.org/ebooks/70144
