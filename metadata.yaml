@@ -1,5 +1,8 @@
 _repo: Mes-cahiers-rouges-au-temps-de-la-Commune_70144
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70144-h/images/cover.jpg
 creator:
   author:
     agent_name: Vuillaume, Maxime
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Maxime_Vuillaume
     - https://fr.wikipedia.org/wiki/Maxime_Vuillaume
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70144#Mes-cahiers-rouges-au-temps-de-la-Commune
 gutenberg_issued: '2023-02-26'
 identifiers:
   gutenberg: '70144'
